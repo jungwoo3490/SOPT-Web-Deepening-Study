@@ -1,0 +1,29 @@
+.basic-btn {
+  margin-bottom: 1rem;
+  padding: 2rem 3rem;
+
+  text-align: center;
+
+  border-radius: 0.5rem;
+
+  background-color: grey;
+}
+
+.btnStyle {
+  margin-bottom: 1rem;
+  padding: 2rem 3rem;
+
+  text-align: center;
+
+  border-radius: 0.5rem;
+}
+
+.firstBtn {
+  background-color: hotpink;
+  color: white;
+}
+
+.secondBtn {
+  background-color: white;
+  color: hotpink;
+}
